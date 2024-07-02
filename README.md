@@ -1,4 +1,6 @@
 # employeeTurnover
+*Collaborators: David Li, Aryanka Thaker, Sarah Liang*
+
 The completed presentation document for this group project is seen [here](https://liang-sarah.github.io/employeeTurnover/employeeTurnoverAnalysis.pdf).
 
 <br />
